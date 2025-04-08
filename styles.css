@@ -1,0 +1,162 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    border: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    user-select: none;
+    box-sizing: border-box;
+}
+
+.nav {
+    box-sizing: content-box;
+    height: 80px;
+    background-color: #000;
+}
+
+.nomecurriculo {
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    height: 70px;
+    gap: 200px;
+
+}
+
+.componentesnav {
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+
+}
+
+.nomecurriculo-info {
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    height: 70px;
+    gap: 200px;
+
+}
+
+.componentesnav-info {
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    gap: 125px;
+}
+
+.nomecurriculo-form {
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    height: 70px;
+    gap: 200px;
+
+}
+
+.componentesnav-form {
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    gap: 125px;
+}
+
+.nomecurriculo-exp {
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    height: 70px;
+    gap: 200px;
+
+}
+
+.componentesnav-exp {
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    gap: 125px;
+}
+
+.nomecurriculo-conq {
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    height: 70px;
+    gap: 200px;
+
+}
+
+.componentesnav-conq {
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    gap: 125px;
+}
+
+.info-geral {
+    display: flex;
+    position: relative;
+}
+
+.img-principal {
+    border: 4px outset green;
+    border-radius: 100%;
+    height: 280px;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    display: inline-flex;
+
+
+}
+
+.nomericael {
+    margin-left: 150px;
+    display: inline-flex;
+    font-size: 90px;
+    align-items: center;
+
+}
+
+.foto-centro {
+    margin: 15px 41%;
+    border: 4px outset green;
+    border-radius: 100%;
+    height: 280px;
+
+}
+
+.titulo {
+    font-size: 55px;
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
+
+.info {
+    flex-direction: column;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 29px 0;
+    font-weight: bold;
+    color: rgb(42, 42, 42);
+}
+
